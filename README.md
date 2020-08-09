@@ -39,5 +39,3 @@ Building a Neural Network from scratch using Octave
 2.4 Gradient checking
 
 2.5 Regularized Neural Networks
-
-2.6 Learning parameters using fmincg
